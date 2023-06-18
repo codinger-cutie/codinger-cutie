@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 ## Website
 [codinger-cutie](https://codinger-cutie.github.io)
 
-## About
+## About me
 - 🖱 I like programming in HTML, JS, CSS and C++.
 - 👍 My favorite projects are websites, C++ apps and open source games 🎮.
 - 💬 Pronouns: he/him
-- ⚡ Fun fact: I was inspired to programming by [Kashumy](https://github.com/Kashumy) and school.
+- ⚡ Fun fact: I was inspired to programming by [Kashumy](https://github.com/Kashumy) and an IT teacher at school.
 
 ## Goals
 - 👨‍💻 Working on 🎁SECRET PROJECT🎁 and improving [GUI-site-creator](https://github.com/codinger-cutie/GUI-site-creator)
