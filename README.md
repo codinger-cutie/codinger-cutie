@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🖱 I like programming in HTML, JS, CSS and C++.
 - 👍 My favorite projects are websites, C++ apps and open source games 🎮.
 - 💬 Pronouns: he/him
-- ⚡ Fun fact: I was inspired to programming by [Kashumy](https://github.com/Kashumy) and an IT teacher at school.
+- ⚡ Fun fact: I was inspired to C++ programming by [Kashumy](https://github.com/Kashumy) and front-end development by an IT teacher at school.
 
 ## Goals
 - 👨‍💻 Working on 🎁SECRET PROJECT🎁 and improving [GUI-site-creator](https://github.com/codinger-cutie/GUI-site-creator)
